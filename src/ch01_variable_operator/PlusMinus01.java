@@ -28,7 +28,7 @@ public class PlusMinus01 {
         System.out.println("c : " + c); // 25
         System.out.println("-------------");
 
-        a = 100;
+        a = 10;
         b = 20;
         ++a; // 11
         b--; // 19
