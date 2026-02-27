@@ -10,7 +10,7 @@ public class Q2 {
         System.out.println("y : " + y); // 4
         System.out.println("z : " + z); // 7
 
-        z += --x + y++;
+        z += --x + y++; // 헷갈
 
         System.out.println("x : " + x); // 3
         System.out.println("y : " + y); // 5
