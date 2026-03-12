@@ -25,5 +25,12 @@ public class MyArr01 {
         for (int i = 0; i < brr.length; i++) {
             System.out.println(brr[i]);
         }
+
+        System.out.println();
+
+        // 향상된 for문 해보기
+        for (int item : arr){
+            System.out.println(item);
+        }
     }
 }

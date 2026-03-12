@@ -1,0 +1,16 @@
+수퍼 클래스 : Beverage05
+
+인터페이스
+    WaterAdjustable
+    ShotAddable
+    MilkAddable
+
+서브 클래스
+    Americano05
+    Espresso05
+    Latte05
+    Cappuccino05
+    Specialcoffee05
+
+메인 클래스 : InheTest05
+05 클래스 구현
